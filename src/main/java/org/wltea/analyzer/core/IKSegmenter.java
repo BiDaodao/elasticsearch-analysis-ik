@@ -36,7 +36,7 @@ import java.util.List;
  */
 public final class IKSegmenter {
 	
-	//字符窜reader
+	//字符串reader
 	private Reader input;
 	//分词器上下文
 	private AnalyzeContext context;
